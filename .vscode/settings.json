@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "test_db",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "password": "UhPy-smnxOkOveh7I1cilxWQLiLW4TaE",
+            "database": "tjjcvnix",
+            "username": "tjjcvnix",
+            "name": "project",
+            "connectString": "postgres://tjjcvnix:UhPy-smnxOkOveh7I1cilxWQLiLW4TaE@salt.db.elephantsql.com/tjjcvnix"
+        }
+    ]
+}
